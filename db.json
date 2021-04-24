@@ -1,5 +1,17 @@
 {
-    "item": "",
-    "price": 200,
-    "date": "Apr 24 2021"
-}
+    "expenses": [
+      {
+        "id": 1,
+        "item": "Ice cream",
+        "cost": 7,
+        "date": "Apr 24 2021"
+      }
+    ],
+    "earnings": [
+        {
+            "id": 1,
+            "item": "salary",
+            "cost": 8000
+        }
+    ]
+  }
